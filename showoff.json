@@ -1,0 +1,5 @@
+{ 
+    "name": "NodeJS e ExpressJS Aulas no TCE",
+    "description": "Primeira Aula no TCE sobre Node.JS",
+    "sections": [ {"section":"intro"} ]
+}
